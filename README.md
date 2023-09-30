@@ -6,7 +6,7 @@
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/bagisto/bagisto"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
-    <a href="https://github.com/bagisto/bagisto/actions"><img src="https://github.com/bagisto/bagisto/workflows/CI/badge.svg" alt="Backers on Open Collective"></a>
+    <a href="https://github.com/jeffulan/bagisto/actions"><img src="https://github.com/jeffulan/bagisto/workflows/CI/badge.svg" alt="Backers on Open Collective"></a>
     <a href="#backers"><img src="https://opencollective.com/bagisto/backers/badge.svg" alt="Backers on Open Collective"></a>
     <a href="#sponsors"><img src="https://opencollective.com/bagisto/sponsors/badge.svg" alt="Sponsors on Open Collective"></a>
     <a href="https://www.codetriage.com/bagisto/bagisto"><img src="https://www.codetriage.com/bagisto/bagisto/badges/users.svg" alt="Open Source Helpers"></a>
@@ -66,13 +66,13 @@ The power of headless commerce now comes to Bagisto enabling you to experience s
 
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/vue.png)
 
-Vue Storefront 2 integration for Bagisto: [https://github.com/bagisto/vuestorefront](https://github.com/bagisto/vuestorefront)
+Vue Storefront 2 integration for Bagisto: [https://github.com/jeffulan/vuestorefront](https://github.com/jeffulan/vuestorefront)
 
 ## Next.js Commerce
 
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/next.png)
 
-Develop and deploy your next headless commerce storefronts with Next JS and Bagisto: [https://github.com/bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
+Develop and deploy your next headless commerce storefronts with Next JS and Bagisto: [https://github.com/jeffulan/nextjs-commerce](https://github.com/jeffulan/nextjs-commerce)
 
 # Commerce For Every Need
 
@@ -91,10 +91,10 @@ Make use of 100+ Bagisto pre built extensions from [Bagisto Extension Markeptlac
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/community.png)
 
 Get Bagisto support on Facebook Group and [Forum](https://forum.sylius.com/)
-Would like to help us build the most developer-friendly E-Commerce platform? Start by reading our [Contributing Guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md)!
+Would like to help us build the most developer-friendly E-Commerce platform? Start by reading our [Contributing Guide](https://github.com/jeffulan/bagisto/blob/master/.github/CONTRIBUTING.md)!
 
 # License
-Bagisto is a truly open-source E-Commerce framework that will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
+Bagisto is a truly open-source E-Commerce framework that will always be free under the [MIT License](https://github.com/jeffulan/bagisto/blob/master/LICENSE).
 
 # Security Vulnerabilities
 If you think that you have found a security issue in Bagisto, please do not use the issue tracker and do not post it publicly. Instead, all security issues must be sent to [mailto:support@bagisto.com](mailto:support@bagisto.com).
@@ -103,7 +103,7 @@ If you think that you have found a security issue in Bagisto, please do not use 
 
 This project is on [Open Collective](https://opencollective.com/bagisto), and it exists thanks to the people who contribute.
 
-<a href="https://github.com/bagisto/bagisto/graphs/contributors"><img src="https://opencollective.com/bagisto/contributors.svg?width=890&button=false"/></a>
+<a href="https://github.com/jeffulan/bagisto/graphs/contributors"><img src="https://opencollective.com/bagisto/contributors.svg?width=890&button=false"/></a>
 
 # Backers
 
